@@ -14,13 +14,13 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      background-image: url("./assets/abbb.jpg");
+      background-color: hsl(0, 0%, 94%);
       background-size: cover;
       background-position: center;
       filter: grayscale(30%) brightness(80%) contrast(90%);
   }
   .container{
-      background-color:hsl(0, 0%, 100%);
+      background-color:rgb(240, 240, 240);
       width: 600px;
       border-radius: 1rem 1rem 10rem .1rem;
   }
